@@ -1,0 +1,123 @@
+.mainBox {
+    margin: 100px 50% 0 35%;
+    height: 667px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.facebook {
+    margin: 10px;
+    height: 48px;
+    width: 100%;
+    background-color: #1877F2;
+    font-weight: 700;
+    border-radius: 40px;
+    border: none;
+
+}
+
+.apple {
+    margin: 10px;
+    height: 48px;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+    border: none;
+}
+
+.google {
+    margin: 10px;
+    height: 48px;
+    width: 100%;
+    font-weight: 700;
+    border-radius: 40px;
+    color: gray;
+    background-color: white;
+    border: 1px solid gray;
+}
+
+.line1 {
+    height: 2px;
+    width: 185.91px;
+    border-top: 2px solid grey;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+h5 {
+    margin: 0 auto;
+
+}
+
+.line2 {
+    height: 2px;
+    width: 195.91px;
+    border-top: 2px solid gray;
+    position: relative;
+    right: -54%;
+    top: -19px;
+}
+
+.input {
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin: 10px 0px 10px 0px;
+}
+
+label {
+    font-weight: 500;
+}
+
+.text2 {
+    margin: 13px 0px 10px 0px;
+}
+
+a {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.checkbox {
+    height: 16px;
+    width: 16px;
+}
+.login{
+    height: 48px;
+    width: 121.11px;
+    border-radius: 40px;
+    border: none;
+    float: right;
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    background-color: #1ED760;
+    margin-bottom: 10px;
+    
+}
+.line3{
+    height: 2px;
+    width: 450px;
+    margin: 0 auto;
+    border-top: 2px solid gray;
+    margin-top: 47px;
+    opacity: 0.7;
+}
+h4{
+    margin: 0 auto;
+    margin-top: 20px;  
+}
+.sign-up{
+    margin: 10px;
+    height: 48px;
+    font-weight: 700;
+    border-radius: 40px;
+    color: gray;
+    background-color: white;
+    border: 1px solid gray;
+}
